@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tiredealsnow.com/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <image:image>
+      <image:loc>https://tiredealsnow.com/wp-content/uploads/winter-tire-performance-test.png</image:loc>
+      <image:title>Winter Tire Performance Test Results</image:title>
+      <image:caption>Winter Tire Performance Test Results - Safety Analysis</image:caption>
+      <image:description>Winter Tire Performance Test Results - Safety Analysis</image:description>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tiredealsnow.com/all-terrain-tires/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <image:image>
+      <image:loc>https://tiredealsnow.com/wp-content/uploads/best-all-terrain-tires-2024.png</image:loc>
+      <image:title>Best All Terrain Tires 2024 - Complete Buying Guide</image:title>
+      <image:caption>Best All Terrain Tires 2024 - Complete Buying Guide</image:caption>
+      <image:description>Best All Terrain Tires 2024 - Complete Buying Guide</image:description>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://tiredealsnow.com/tire-brands/</loc>
+    <lastmod>2025-09-01</lastmod>
+    <image:image>
+      <image:loc>https://tiredealsnow.com/wp-content/uploads/bfgoodrich-brand-comparison.png</image:loc>
+      <image:title>BFGoodrich vs Competitors - Brand Comparison</image:title>
+      <image:caption>BFGoodrich vs Competitors - Brand Comparison Chart</image:caption>
+      <image:description>BFGoodrich vs Competitors - Brand Comparison Chart</image:description>
+    </image:image>
+  </url>
+</urlset>

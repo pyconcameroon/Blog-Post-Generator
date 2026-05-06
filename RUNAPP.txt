@@ -1,0 +1,12 @@
+To start the app in development mode, you'll first need to ensure you have all the required dependencies installed. I'll help you set it up:
+
+First, let's create a requirements.txt file:
+Created requirements.txt
+
+Now, let's create a .env template file:
+Created .env.example
+
+Here are the steps to run the app in development mode:
+
+First, create and activate a virtual environment:
+

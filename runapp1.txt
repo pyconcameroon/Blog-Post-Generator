@@ -1,0 +1,99 @@
+To start the app in development mode, you'll first need to ensure you have all the required dependencies installed. I'll help you set it up:
+First, let's create a requirements.txt file:
+Created requirements.txt
+
+Now, let's create a .env template file:
+Created .env.example
+
+Here are the steps to run the app in development mode:
+
+First, create and activate a virtual environment:
+
+python -m venv ENVIRONMENT
+.\ENVIRONMENT\Scripts\activate
+
+Install the required dependencies:
+pip install -r requirements.txt
+
+Download required NLTK data
+python -m nltk.downloader punkt averaged_perceptron_tagger maxent_ne_chunker words stopwords
+
+To start the app in development mode, you'll first need to ensure you have all the required dependencies installed. I'll help you set it up:
+
+1. First, let's create a `requirements.txt` file: 
+
+Made changes.
+
+2. Now, let's create a .env template file: 
+
+Made changes.
+
+Here are the steps to run the app in development mode:
+
+1. First, create and activate a virtual environment:
+```powershell
+python -m venv ENVIRONMENT
+.\ENVIRONMENT\Scripts\activate
+```
+
+2. Install the required dependencies:
+```powershell
+pip install -r requirements.txt
+```
+
+3. Download required NLTK data:
+```powershell
+python -m nltk.downloader punkt averaged_perceptron_tagger maxent_ne_chunker words stopwords
+```
+
+4. Set up your environment variables:
+- Copy .env.example to .env
+- Edit .env with your actual credentials
+
+5. Create a sample input.csv file with these columns:
+- URL Slug
+- Meta Title
+- Description
+
+6. Run the app in development mode:
+```powershell
+python main.py input.csv
+```
+
+Let me help you create a simple test CSV to get started: Since input.csv already exists, you can use that. Here's what the development workflow looks like:
+
+1. Make sure you're in the correct directory:
+```powershell
+cd "C:\Users\Code Farm\Desktop\scripts\BLOG_POST"
+```
+
+2. Activate the virtual environment (if not already activated):
+```powershell
+.\ENVIRONMENT\Scripts\activate
+```
+
+3. Run the script:
+```powershell
+python main.py input.csv
+```
+
+The script will:
+- Print detailed progress information
+- Save logs to `blog_generation.log`
+- Save any errors to error_log.txt
+- Save generated images to generated_images
+- Save results to `output.csv`
+
+For development and testing:
+- Check the logs in real-time to monitor progress
+- Use a small CSV file first to test the workflow
+- Make sure your .env file has valid credentials
+
+Would you like me to help you set up any specific part of the development environment?
+
+
+
+======================
+
+.\start.bat
+

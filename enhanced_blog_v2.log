@@ -1,0 +1,796 @@
+2025-08-14 22:36:31,377 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 22:36:31,380 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 22:36:31,381 - ERROR - Config validation error: DEEPSEEK_API_KEY is required
+2025-08-14 22:52:36,018 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 22:55:30,688 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 22:56:07,828 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 22:56:07,830 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 22:56:07,885 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 22:59:02,497 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 22:59:02,505 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 22:59:02,564 - INFO - Processing row 1/1: 
+2025-08-14 23:00:28,008 - INFO - Generated article:  - Quality: 0.20, SEO: 0.45
+2025-08-14 23:00:28,012 - INFO - Content saved to: generated_content_.html
+2025-08-14 23:00:30,630 - INFO - Successfully published:  (ID: 6363)
+2025-08-14 23:00:30,649 - INFO - Completed  - Quality: 0.20, SEO: 0.45
+2025-08-14 23:00:30,652 - INFO - Waiting 200 seconds before next generation...
+2025-08-14 23:15:13,831 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:15:13,835 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:15:13,886 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:37:46,078 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:37:46,082 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:37:46,157 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:37:51,821 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:37:51,827 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:37:51,895 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:38:00,569 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:38:00,570 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:38:00,585 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:38:26,768 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:38:26,769 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:38:26,784 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:39:07,645 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:39:07,649 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:39:07,715 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:39:16,893 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:39:16,894 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:39:16,908 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:43:23,065 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:43:23,071 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:43:23,131 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-14 23:43:33,854 - INFO - Starting Enhanced Content Generation V2
+2025-08-14 23:43:33,855 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-14 23:43:33,872 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-15 05:30:19,488 - INFO - Starting Enhanced Content Generation V2
+2025-08-15 05:30:19,491 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-15 05:30:19,543 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-15 05:31:50,461 - INFO - Starting Enhanced Content Generation V2
+2025-08-15 05:31:50,633 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-15 05:31:50,730 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-15 05:31:50,759 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 1
+Successfully published: 1
+Success rate: 100.0%
+Average quality score: 0.20
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-15 05:43:25,272 - ERROR - Main execution failed: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
+2025-08-15 05:46:27,392 - INFO - Starting Enhanced Content Generation V2
+2025-08-15 05:46:27,395 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-15 05:46:27,432 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-15 05:46:27,452 - ERROR - Main execution failed: 'charmap' codec can't encode character '\U0001f389' in position 2: character maps to <undefined>
+2025-08-15 05:48:10,759 - INFO - Starting Enhanced Content Generation V2
+2025-08-15 05:48:10,777 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-15 05:48:10,854 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-15 05:48:10,880 - INFO - 
+Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 1
+Successfully published: 1
+Success rate: 100.0%
+Average quality score: 0.20
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-18 20:01:43,216 - ERROR - Main execution failed: 'charmap' codec can't encode character '\U0001f680' in position 0: character maps to <undefined>
+2025-08-18 21:25:52,290 - INFO - Starting Enhanced Content Generation V2
+2025-08-18 21:25:52,294 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-18 21:25:52,357 - INFO - Resuming from index 1, found 1 processed slugs
+2025-08-18 21:25:52,372 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 1
+Successfully published: 1
+Success rate: 100.0%
+Average quality score: 0.20
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-29 22:20:12,321 - INFO - Starting Enhanced Content Generation V2
+2025-08-29 22:20:12,323 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-29 22:20:12,353 - INFO - Processing row 1/39: 
+2025-08-29 22:20:12,353 - INFO - Starting content generation for: 
+2025-08-29 22:20:12,353 - INFO - Generating initial content with AI...
+2025-08-29 22:22:44,390 - INFO - Analyzing content quality and extracting topics...
+2025-08-29 22:22:44,436 - INFO - Searching for relevant links using topics: ['tyre', 'stability', 'high']
+2025-08-29 22:22:45,312 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:23:14,284 - INFO - Found 8 relevant search results
+2025-08-29 22:23:14,285 - INFO - Inserting links into content...
+2025-08-29 22:23:14,294 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-29 22:23:14,301 - INFO - Generated article:  - Quality: 0.70, SEO: 0.35, Links: 5
+2025-08-29 22:23:14,303 - INFO - Content saved to: generated_content_.html
+2025-08-29 22:23:18,069 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:23:19,562 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:23:20,672 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:23:20,687 - INFO - Completed  - Quality: 0.70, SEO: 0.35
+2025-08-29 22:23:20,688 - INFO - Waiting 45 seconds before next generation...
+2025-08-29 22:24:05,689 - INFO - Processing row 2/39: 
+2025-08-29 22:24:05,689 - INFO - Starting content generation for: 
+2025-08-29 22:24:05,689 - INFO - Generating initial content with AI...
+2025-08-29 22:26:34,196 - INFO - Analyzing content quality and extracting topics...
+2025-08-29 22:26:34,224 - INFO - Searching for relevant links using topics: ['tires', 'performance', 'tire']
+2025-08-29 22:26:35,620 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:27:09,126 - INFO - Found 8 relevant search results
+2025-08-29 22:27:09,126 - INFO - Inserting links into content...
+2025-08-29 22:27:09,134 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-29 22:27:09,143 - INFO - Generated article:  - Quality: 0.70, SEO: 0.35, Links: 5
+2025-08-29 22:27:09,144 - INFO - Content saved to: generated_content_.html
+2025-08-29 22:27:10,515 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:27:11,674 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:27:13,273 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:27:13,277 - INFO - Completed  - Quality: 0.70, SEO: 0.35
+2025-08-29 22:27:13,278 - INFO - Waiting 45 seconds before next generation...
+2025-08-29 22:27:58,278 - INFO - Processing row 3/39: 
+2025-08-29 22:27:58,278 - INFO - Starting content generation for: 
+2025-08-29 22:27:58,279 - INFO - Generating initial content with AI...
+2025-08-29 22:30:07,418 - INFO - Analyzing content quality and extracting topics...
+2025-08-29 22:30:07,440 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'tread']
+2025-08-29 22:30:08,160 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:30:22,192 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025BF7F691D0>: Failed to resolve 'html.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-29 22:31:03,768 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Read timed out. (read timeout=10)
+2025-08-29 22:31:16,087 - INFO - Found 4 relevant search results
+2025-08-29 22:31:16,087 - INFO - Inserting links into content...
+2025-08-29 22:31:16,093 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-29 22:31:16,101 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-29 22:31:16,102 - INFO - Content saved to: generated_content_.html
+2025-08-29 22:31:17,979 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:31:19,901 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:31:21,291 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:31:21,297 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-29 22:31:21,297 - INFO - Waiting 45 seconds before next generation...
+2025-08-29 22:55:59,772 - INFO - Starting Enhanced Content Generation V2
+2025-08-29 22:55:59,924 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-29 22:56:01,832 - INFO - Resuming from index 3, found 3 processed slugs
+2025-08-29 22:56:01,832 - INFO - Processing row 4/39: 
+2025-08-29 22:56:01,833 - INFO - Starting content generation for: 
+2025-08-29 22:56:01,833 - INFO - Generating initial content with AI...
+2025-08-29 22:58:10,694 - INFO - Analyzing content quality and extracting topics...
+2025-08-29 22:58:10,736 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'cost']
+2025-08-29 22:58:11,408 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-29 22:58:40,810 - INFO - Found 4 relevant search results
+2025-08-29 22:58:40,810 - INFO - Inserting links into content...
+2025-08-29 22:58:40,827 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-29 22:58:40,839 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-29 22:58:40,841 - INFO - Content saved to: generated_content_.html
+2025-08-29 22:58:44,414 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:58:45,370 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:58:46,336 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-29 22:58:46,355 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-29 22:58:46,355 - INFO - Waiting 45 seconds before next generation...
+2025-08-29 22:59:31,356 - INFO - Processing row 5/39: 
+2025-08-29 22:59:31,356 - INFO - Starting content generation for: 
+2025-08-29 22:59:31,356 - INFO - Generating initial content with AI...
+2025-08-29 23:01:35,031 - INFO - Analyzing content quality and extracting topics...
+2025-08-29 23:01:35,053 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'wear']
+2025-08-29 23:01:36,096 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:31:17,275 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 01:31:17,352 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 01:31:17,429 - INFO - Resuming from index 4, found 4 processed slugs
+2025-08-30 01:31:17,430 - INFO - Processing row 5/39: 
+2025-08-30 01:31:17,430 - INFO - Starting content generation for: 
+2025-08-30 01:31:17,430 - INFO - Generating initial content with AI...
+2025-08-30 01:33:44,268 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:33:44,293 - INFO - Searching for relevant links using topics: ['tire', 'wear', 'tires']
+2025-08-30 01:33:45,920 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:34:16,559 - INFO - Found 9 relevant search results
+2025-08-30 01:34:16,559 - INFO - Inserting links into content...
+2025-08-30 01:34:16,566 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 01:34:16,574 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 01:34:16,576 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:34:20,499 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:34:21,734 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:34:22,867 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:34:22,878 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:34:22,879 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:35:07,879 - INFO - Processing row 6/39: 
+2025-08-30 01:35:07,880 - INFO - Starting content generation for: 
+2025-08-30 01:35:07,880 - INFO - Generating initial content with AI...
+2025-08-30 01:36:41,990 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:36:42,008 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'load']
+2025-08-30 01:36:42,970 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:37:07,404 - INFO - Found 4 relevant search results
+2025-08-30 01:37:07,404 - INFO - Inserting links into content...
+2025-08-30 01:37:07,410 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 01:37:07,416 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 01:37:07,417 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:37:09,029 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:37:09,983 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:37:10,905 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:37:10,911 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:37:10,911 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:37:55,912 - INFO - Processing row 7/39: 
+2025-08-30 01:37:55,912 - INFO - Starting content generation for: 
+2025-08-30 01:37:55,912 - INFO - Generating initial content with AI...
+2025-08-30 01:39:40,136 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:39:40,156 - INFO - Searching for relevant links using topics: ['tire', 'tread', 'tires']
+2025-08-30 01:39:40,839 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:39:59,050 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:40:00,267 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:40:01,522 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:40:03,523 - INFO - Found 6 relevant search results
+2025-08-30 01:40:03,523 - INFO - Inserting links into content...
+2025-08-30 01:40:03,529 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 01:40:03,536 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 01:40:03,537 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:40:05,530 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:40:06,457 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:40:07,423 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:40:07,428 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:40:07,429 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:40:52,430 - INFO - Processing row 8/39: 
+2025-08-30 01:40:52,430 - INFO - Starting content generation for: 
+2025-08-30 01:40:52,430 - INFO - Generating initial content with AI...
+2025-08-30 01:42:27,410 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:42:27,428 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'rear']
+2025-08-30 01:42:28,502 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:29,839 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:31,062 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:32,385 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:34,816 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:35,737 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:36,943 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:38,199 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:40,479 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:41,241 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:42,464 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:43,734 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:42:45,735 - INFO - Found 4 relevant search results
+2025-08-30 01:42:45,736 - INFO - Inserting links into content...
+2025-08-30 01:42:45,741 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 01:42:45,747 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 01:42:45,748 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:42:47,325 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:42:48,165 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:42:49,118 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:42:49,123 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:42:49,123 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:43:34,124 - INFO - Processing row 9/39: 
+2025-08-30 01:43:34,124 - INFO - Starting content generation for: 
+2025-08-30 01:43:34,124 - INFO - Generating initial content with AI...
+2025-08-30 01:45:09,094 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:45:09,129 - INFO - Searching for relevant links using topics: ['profile', 'tires', 'tire']
+2025-08-30 01:45:10,260 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:45:42,022 - INFO - Found 6 relevant search results
+2025-08-30 01:45:42,022 - INFO - Inserting links into content...
+2025-08-30 01:45:42,034 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 01:45:42,046 - INFO - Generated article:  - Quality: 0.60, SEO: 0.55, Links: 5
+2025-08-30 01:45:42,047 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:45:44,019 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:45:45,003 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:45:45,973 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:45:45,979 - INFO - Completed  - Quality: 0.60, SEO: 0.55
+2025-08-30 01:45:45,979 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:46:30,980 - INFO - Processing row 10/39: 
+2025-08-30 01:46:30,980 - INFO - Starting content generation for: 
+2025-08-30 01:46:30,980 - INFO - Generating initial content with AI...
+2025-08-30 01:48:17,723 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:48:17,751 - INFO - Searching for relevant links using topics: ['tires', 'winter', 'grip']
+2025-08-30 01:48:18,476 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:48:43,322 - INFO - Found 6 relevant search results
+2025-08-30 01:48:43,323 - INFO - Inserting links into content...
+2025-08-30 01:48:43,334 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 01:48:43,345 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 01:48:43,347 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:48:44,519 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:48:45,508 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:48:46,466 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:48:46,472 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:48:46,472 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:49:31,473 - INFO - Processing row 11/39: 
+2025-08-30 01:49:31,473 - INFO - Starting content generation for: 
+2025-08-30 01:49:31,473 - INFO - Generating initial content with AI...
+2025-08-30 01:51:23,473 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:51:23,500 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'tread']
+2025-08-30 01:51:24,120 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:51:48,320 - INFO - Found 4 relevant search results
+2025-08-30 01:51:48,321 - INFO - Inserting links into content...
+2025-08-30 01:51:48,333 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 01:51:48,343 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 01:51:48,344 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:51:50,462 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:51:51,532 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:51:52,620 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:51:52,625 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:51:52,625 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:52:37,626 - INFO - Processing row 12/39: 
+2025-08-30 01:52:37,626 - INFO - Starting content generation for: 
+2025-08-30 01:52:37,626 - INFO - Generating initial content with AI...
+2025-08-30 01:54:34,693 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:54:34,726 - INFO - Searching for relevant links using topics: ['michelin', 'tires', 'tire']
+2025-08-30 01:54:35,528 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:54:44,059 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 01:54:55,211 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+michelin&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606911D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:55:09,635 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+michelin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691950>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:55:21,433 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+michelin (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690690>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:55:38,747 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:55:49,998 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:56:01,702 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606907D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:56:13,484 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692C10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:56:15,486 - INFO - Found 6 relevant search results
+2025-08-30 01:56:15,486 - INFO - Inserting links into content...
+2025-08-30 01:56:15,502 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 01:56:15,514 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 01:56:15,515 - INFO - Content saved to: generated_content_.html
+2025-08-30 01:56:16,823 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:56:17,919 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:56:19,123 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 01:56:19,128 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 01:56:19,129 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 01:57:04,129 - INFO - Processing row 13/39: 
+2025-08-30 01:57:04,129 - INFO - Starting content generation for: 
+2025-08-30 01:57:04,130 - INFO - Generating initial content with AI...
+2025-08-30 01:58:59,039 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 01:58:59,071 - INFO - Searching for relevant links using topics: ['winter', 'snow', 'tire']
+2025-08-30 01:59:09,114 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691F90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:59:20,052 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692D50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:59:31,053 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690A50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:59:42,055 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 01:59:56,572 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=winter (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:00:08,103 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+winter (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691BD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:00:19,714 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+winter (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691950>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:00:31,544 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+winter (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693250>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:00:44,437 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=snow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60587D90>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:00:55,875 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+snow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690050>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:01:07,594 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+snow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691BD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:01:19,377 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+snow (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:01:21,378 - INFO - Found 6 relevant search results
+2025-08-30 02:01:21,378 - INFO - Inserting links into content...
+2025-08-30 02:01:21,390 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:01:21,402 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 02:01:21,404 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:01:22,953 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:01:23,912 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:01:24,959 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:01:24,965 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:01:24,965 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:02:09,966 - INFO - Processing row 14/39: 
+2025-08-30 02:02:09,966 - INFO - Starting content generation for: 
+2025-08-30 02:02:09,966 - INFO - Generating initial content with AI...
+2025-08-30 02:04:12,613 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:04:12,626 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'season']
+2025-08-30 02:04:22,749 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691810>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:04:33,639 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:04:44,641 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690690>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:05:11,931 - INFO - Found 6 relevant search results
+2025-08-30 02:05:11,932 - INFO - Inserting links into content...
+2025-08-30 02:05:11,936 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:05:11,939 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 02:05:11,940 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:05:13,875 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:05:15,107 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:05:16,254 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:05:16,257 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:05:16,257 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:06:01,258 - INFO - Processing row 15/39: 
+2025-08-30 02:06:01,258 - INFO - Starting content generation for: 
+2025-08-30 02:06:01,259 - INFO - Generating initial content with AI...
+2025-08-30 02:08:12,392 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:08:12,427 - INFO - Searching for relevant links using topics: ['tire', 'performance', 'tires']
+2025-08-30 02:08:13,533 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:08:25,966 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692850>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:08:37,624 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690050>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:08:49,391 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606907D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:09:02,066 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=tire (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690910>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:09:13,313 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+tire (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691BD0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:09:25,213 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+tire (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606934D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:09:37,013 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+tire (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690550>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:09:49,903 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=performance (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:10:01,311 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+performance (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692210>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:10:13,111 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+performance (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691D10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:10:24,761 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+performance (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606911D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:10:26,763 - INFO - Found 6 relevant search results
+2025-08-30 02:10:26,763 - INFO - Inserting links into content...
+2025-08-30 02:10:26,780 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:10:26,789 - INFO - Generated article:  - Quality: 0.50, SEO: 0.50, Links: 5
+2025-08-30 02:10:26,790 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:10:28,609 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:10:29,796 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:10:31,126 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:10:31,131 - INFO - Completed  - Quality: 0.50, SEO: 0.50
+2025-08-30 02:10:31,131 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:11:16,133 - INFO - Processing row 16/39: 
+2025-08-30 02:11:16,133 - INFO - Starting content generation for: 
+2025-08-30 02:11:16,133 - INFO - Generating initial content with AI...
+2025-08-30 02:13:01,586 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:13:01,604 - INFO - Searching for relevant links using topics: ['tires', 'rear', 'front']
+2025-08-30 02:13:11,740 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606920D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:13:23,090 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690A50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:13:34,105 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:13:45,112 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692350>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:13:59,888 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606902D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:14:11,321 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:14:23,019 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692C10>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:14:34,801 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+tires (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693390>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:14:47,406 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=rear (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:14:59,312 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+rear (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690910>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:15:11,204 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Abritannica.com+rear (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693610>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:15:22,877 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Areuters.com+rear (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606939D0>, 'Connection to html.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:15:24,878 - INFO - Found 6 relevant search results
+2025-08-30 02:15:24,878 - INFO - Inserting links into content...
+2025-08-30 02:15:25,239 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:15:25,270 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 02:15:28,520 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:15:34,172 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:15:35,657 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:15:36,798 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:15:40,120 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:15:40,121 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:16:25,122 - INFO - Processing row 17/39: 
+2025-08-30 02:16:25,122 - INFO - Starting content generation for: 
+2025-08-30 02:16:25,122 - INFO - Generating initial content with AI...
+2025-08-30 02:18:24,143 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:18:24,442 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'vehicle']
+2025-08-30 02:18:26,227 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:39,343 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:41,719 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:42,687 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:44,138 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:45,511 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:47,947 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:48,860 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:50,253 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:52,220 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:18:54,221 - INFO - Found 4 relevant search results
+2025-08-30 02:18:54,221 - INFO - Inserting links into content...
+2025-08-30 02:18:54,262 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 02:18:54,291 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 02:18:54,327 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:18:55,620 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:18:56,678 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:18:57,818 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:18:57,841 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:18:57,841 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:19:42,842 - INFO - Processing row 18/39: 
+2025-08-30 02:19:42,842 - INFO - Starting content generation for: 
+2025-08-30 02:19:42,843 - INFO - Generating initial content with AI...
+2025-08-30 02:21:18,057 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:21:18,126 - INFO - Searching for relevant links using topics: ['tires', 'premium', 'budget']
+2025-08-30 02:21:19,326 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:20,700 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:22,050 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:23,385 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:25,753 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:26,779 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:28,144 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:29,515 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:31,864 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:32,869 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:34,213 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:35,561 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 02:21:37,562 - INFO - Found 6 relevant search results
+2025-08-30 02:21:37,563 - INFO - Inserting links into content...
+2025-08-30 02:21:37,580 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:21:37,586 - INFO - Generated article:  - Quality: 0.60, SEO: 0.55, Links: 5
+2025-08-30 02:21:37,588 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:21:39,020 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:21:39,953 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:21:40,963 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:21:41,005 - INFO - Completed  - Quality: 0.60, SEO: 0.55
+2025-08-30 02:21:41,005 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:22:26,005 - INFO - Processing row 19/39: 
+2025-08-30 02:22:26,006 - INFO - Starting content generation for: 
+2025-08-30 02:22:26,006 - INFO - Generating initial content with AI...
+2025-08-30 02:24:01,272 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:24:01,317 - INFO - Searching for relevant links using topics: ['tires', 'premium', 'safety']
+2025-08-30 02:24:11,370 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690B90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:24:22,254 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:24:33,255 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693890>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:24:44,256 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690550>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:24:56,258 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:25:06,945 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693110>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:25:17,957 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606902D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:25:28,968 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692350>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:25:40,983 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=premium&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:25:51,567 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+premium&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691D10>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:26:02,583 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+premium&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606920D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:26:13,734 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+premium&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60C74050>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:26:15,735 - INFO - Found 6 relevant search results
+2025-08-30 02:26:15,735 - INFO - Inserting links into content...
+2025-08-30 02:26:15,741 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 02:26:15,748 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 02:26:15,770 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:26:16,966 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:26:18,079 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:26:19,003 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:26:19,015 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:26:19,015 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:27:04,016 - INFO - Processing row 20/39: 
+2025-08-30 02:27:04,016 - INFO - Starting content generation for: 
+2025-08-30 02:27:04,016 - INFO - Generating initial content with AI...
+2025-08-30 02:28:56,608 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:28:56,730 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'quality']
+2025-08-30 02:29:07,428 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690A50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:29:19,027 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:29:30,039 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691D10>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:29:41,212 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606920D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:29:53,214 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692350>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:04,041 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606902D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:15,043 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692210>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:26,052 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692FD0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:38,089 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693250>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:48,721 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693890>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:30:59,724 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:31:10,730 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691BD0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:31:12,731 - INFO - Found 4 relevant search results
+2025-08-30 02:31:12,732 - INFO - Inserting links into content...
+2025-08-30 02:31:12,749 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 02:31:12,758 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 02:31:12,770 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:31:14,216 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:31:15,200 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:31:16,166 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:31:16,204 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:31:16,204 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:32:01,205 - INFO - Processing row 21/39: 
+2025-08-30 02:32:01,206 - INFO - Starting content generation for: 
+2025-08-30 02:32:01,206 - INFO - Generating initial content with AI...
+2025-08-30 02:34:03,038 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:34:03,185 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'service']
+2025-08-30 02:34:13,416 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690B90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:34:24,416 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:34:35,417 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692C10>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:34:46,418 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690550>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:34:58,433 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:35:09,309 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693110>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:35:20,315 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606902D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:35:31,328 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692350>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:35:43,334 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693ED0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:35:53,898 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690A50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:36:04,931 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60691E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:36:11,865 - INFO - Found 4 relevant search results
+2025-08-30 02:36:11,866 - INFO - Inserting links into content...
+2025-08-30 02:36:11,878 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 02:36:11,882 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 02:36:11,893 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:36:13,647 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:36:15,766 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:36:17,168 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:36:17,198 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:36:17,198 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:37:02,198 - INFO - Processing row 22/39: 
+2025-08-30 02:37:02,199 - INFO - Starting content generation for: 
+2025-08-30 02:37:02,199 - INFO - Generating initial content with AI...
+2025-08-30 02:38:54,978 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:38:55,028 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'performance']
+2025-08-30 02:39:05,075 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693C50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:39:16,038 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692210>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:39:27,057 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:39:38,073 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693110>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:39:50,089 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606902D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:00,753 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693ED0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:11,756 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606920D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:22,854 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606911D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:34,862 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692FD0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:45,436 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693250>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:40:56,577 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692C10>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:41:07,581 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606925D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:41:09,582 - INFO - Found 4 relevant search results
+2025-08-30 02:41:09,583 - INFO - Inserting links into content...
+2025-08-30 02:41:09,590 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 02:41:09,624 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 02:41:09,626 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:41:11,081 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:41:12,228 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:41:13,242 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:41:13,511 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:41:13,511 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:41:58,512 - INFO - Processing row 23/39: 
+2025-08-30 02:41:58,513 - INFO - Starting content generation for: 
+2025-08-30 02:41:58,513 - INFO - Generating initial content with AI...
+2025-08-30 02:44:16,247 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 02:44:16,889 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'performance']
+2025-08-30 02:44:27,487 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693750>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:44:39,198 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692850>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:44:50,214 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692990>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:01,475 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693890>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:13,481 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690550>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:24,790 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690A50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:35,798 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606911D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:46,812 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tire&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED606920D0>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:45:58,838 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60692E90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:46:10,412 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693C50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:46:21,455 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60693110>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:46:32,821 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001ED60690190>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 02:46:34,917 - INFO - Found 4 relevant search results
+2025-08-30 02:46:34,918 - INFO - Inserting links into content...
+2025-08-30 02:46:35,867 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 02:46:36,228 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 02:46:36,238 - INFO - Content saved to: generated_content_.html
+2025-08-30 02:46:48,358 - ERROR - WordPress publishing error: HTTPSConnectionPool(host='tiredealsnow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ED60693610>: Failed to resolve 'tiredealsnow.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 02:46:52,491 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:46:53,609 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 02:46:56,971 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 02:46:56,972 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 02:47:41,988 - INFO - Processing row 24/39: 
+2025-08-30 02:47:41,988 - INFO - Starting content generation for: 
+2025-08-30 02:47:41,988 - INFO - Generating initial content with AI...
+2025-08-30 03:02:59,904 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 03:02:59,906 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 03:02:59,960 - INFO - Resuming from index 23, found 23 processed slugs
+2025-08-30 03:02:59,961 - INFO - Processing row 24/39: 
+2025-08-30 03:02:59,961 - INFO - Starting content generation for: 
+2025-08-30 03:02:59,961 - INFO - Generating initial content with AI...
+2025-08-30 03:04:51,275 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 03:04:51,304 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'used']
+2025-08-30 03:04:52,412 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 03:05:22,921 - INFO - Found 6 relevant search results
+2025-08-30 03:05:22,921 - INFO - Inserting links into content...
+2025-08-30 03:05:22,926 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 03:05:22,933 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 03:05:23,166 - INFO - Content saved to: generated_content_.html
+2025-08-30 03:05:26,857 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 03:05:27,845 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 03:05:28,702 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 03:05:28,720 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 03:05:28,721 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 03:06:13,722 - INFO - Processing row 25/39: 
+2025-08-30 03:06:13,722 - INFO - Starting content generation for: 
+2025-08-30 03:06:13,722 - INFO - Generating initial content with AI...
+2025-08-30 03:07:53,086 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 03:07:53,120 - INFO - Searching for relevant links using topics: ['alignment', 'tires', 'vehicle']
+2025-08-30 03:08:03,157 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC401590>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:08:14,056 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC400F50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:08:25,068 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC401E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:08:36,071 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC401F90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:08:48,076 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=alignment&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC402210>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:08:58,761 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+alignment&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC402350>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:09:09,867 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+alignment&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC402210>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:09:20,871 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+alignment&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC401F90>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 03:09:32,872 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=tires&format=json&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000020BCC401E50>, 'Connection to api.duckduckgo.com timed out. (connect timeout=10)'))
+2025-08-30 20:08:38,739 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 20:08:38,742 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 20:08:38,796 - INFO - Resuming from index 24, found 24 processed slugs
+2025-08-30 20:08:38,797 - INFO - Processing row 25/39: 
+2025-08-30 20:08:38,797 - INFO - Starting content generation for: 
+2025-08-30 20:08:38,797 - INFO - Generating initial content with AI...
+2025-08-30 20:08:38,805 - ERROR - AI content generation error: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED12510>: Failed to resolve 'api.deepseek.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:38,805 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 20:08:38,807 - INFO - Searching for relevant links using topics: ['deepseek', 'failed', 'content']
+2025-08-30 20:08:38,808 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3CF50>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:38,809 - WARNING - Wikipedia search failed: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3D810>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:38,810 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3DBD0>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:39,813 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3DE50>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:40,816 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3E210>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:42,819 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=deepseek&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3E5D0>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:42,821 - WARNING - Wikipedia search failed: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/deepseek (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3EAD0>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:42,823 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+deepseek&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3EE90>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:43,825 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+deepseek&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3F110>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:44,827 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+deepseek&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3F4D0>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:46,850 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=failed&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3F890>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:46,851 - WARNING - Wikipedia search failed: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/failed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED3FD90>: Failed to resolve 'en.wikipedia.org' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:46,857 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Awikipedia.org+failed&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7C190>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:47,859 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Abritannica.com+failed&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7C410>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:48,862 - ERROR - DuckDuckGo search failed: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=site%3Areuters.com+failed&format=json&no_html=1&skip_disambig=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7C7D0>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:50,878 - INFO - Found 0 relevant search results
+2025-08-30 20:08:50,879 - INFO - Inserting links into content...
+2025-08-30 20:08:50,879 - INFO - Inserted 0 links: 0 outbound, 0 internal
+2025-08-30 20:08:50,880 - INFO - Generated article:  - Quality: 0.30, SEO: 0.20, Links: 0
+2025-08-30 20:08:50,881 - INFO - Content saved to: generated_content_.html
+2025-08-30 20:08:50,884 - ERROR - WordPress publishing error: HTTPSConnectionPool(host='tiredealsnow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7CF50>: Failed to resolve 'tiredealsnow.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:50,886 - ERROR - WordPress publishing error: HTTPSConnectionPool(host='tiredealsnow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7D310>: Failed to resolve 'tiredealsnow.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:50,888 - ERROR - WordPress publishing error: HTTPSConnectionPool(host='tiredealsnow.com', port=443): Max retries exceeded with url: /wp-json/wp/v2/posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002637ED7D6D0>: Failed to resolve 'tiredealsnow.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:08:50,908 - INFO - Completed  - Quality: 0.30, SEO: 0.20
+2025-08-30 20:08:50,909 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 20:09:15,547 - INFO - Process interrupted by user
+2025-08-30 20:09:15,551 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 25
+Successfully published: 0
+Success rate: 0.0%
+Average quality score: 0.67
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-30 20:09:19,653 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 20:09:19,653 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 20:09:19,683 - INFO - Resuming from index 25, found 25 processed slugs
+2025-08-30 20:09:19,684 - INFO - Processing row 26/39: 
+2025-08-30 20:09:19,684 - INFO - Starting content generation for: 
+2025-08-30 20:09:19,684 - INFO - Generating initial content with AI...
+2025-08-30 20:11:21,378 - INFO - Process interrupted by user
+2025-08-30 20:11:21,383 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 25
+Successfully published: 0
+Success rate: 0.0%
+Average quality score: 0.67
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-30 20:11:54,221 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 20:11:54,233 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 20:11:54,278 - INFO - Resuming from index 25, found 25 processed slugs
+2025-08-30 20:11:54,279 - INFO - Processing row 26/39: 
+2025-08-30 20:11:54,279 - INFO - Starting content generation for: 
+2025-08-30 20:11:54,279 - INFO - Generating initial content with AI...
+2025-08-30 20:14:06,562 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 20:14:06,580 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'performance']
+2025-08-30 20:14:07,708 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 20:14:40,110 - INFO - Found 6 relevant search results
+2025-08-30 20:14:40,111 - INFO - Inserting links into content...
+2025-08-30 20:14:40,117 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 20:14:40,122 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 20:14:40,124 - INFO - Content saved to: generated_content_.html
+2025-08-30 20:14:41,522 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:14:42,662 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:14:43,802 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:14:43,807 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 20:14:43,807 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 20:15:28,808 - INFO - Processing row 27/39: 
+2025-08-30 20:15:28,809 - INFO - Starting content generation for: 
+2025-08-30 20:15:28,809 - INFO - Generating initial content with AI...
+2025-08-30 20:17:49,375 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 20:17:49,396 - INFO - Searching for relevant links using topics: ['tires', 'tire', 'performance']
+2025-08-30 20:17:50,003 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 20:18:16,107 - INFO - Found 6 relevant search results
+2025-08-30 20:18:16,107 - INFO - Inserting links into content...
+2025-08-30 20:18:16,114 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 20:18:16,120 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 20:18:16,121 - INFO - Content saved to: generated_content_.html
+2025-08-30 20:18:18,248 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:18:19,261 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:18:20,292 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:18:20,296 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 20:18:20,296 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 20:19:05,297 - INFO - Processing row 28/39: 
+2025-08-30 20:19:05,297 - INFO - Starting content generation for: 
+2025-08-30 20:19:05,297 - INFO - Generating initial content with AI...
+2025-08-30 20:20:57,956 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 20:20:57,968 - INFO - Searching for relevant links using topics: ['tire', 'tires', 'safety']
+2025-08-30 20:20:59,489 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 20:21:13,318 - WARNING - DuckDuckGo scraping failed: HTTPSConnectionPool(host='html.duckduckgo.com', port=443): Max retries exceeded with url: /html/?q=site%3Awikipedia.org+ (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CF1E540A50>: Failed to resolve 'html.duckduckgo.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-30 20:21:38,248 - INFO - Found 4 relevant search results
+2025-08-30 20:21:38,248 - INFO - Inserting links into content...
+2025-08-30 20:21:38,251 - INFO - Inserted 4 links: 4 outbound, 0 internal
+2025-08-30 20:21:38,259 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 4
+2025-08-30 20:21:38,260 - INFO - Content saved to: generated_content_.html
+2025-08-30 20:21:39,627 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:21:41,429 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:21:44,248 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:21:44,252 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 20:21:44,252 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 20:22:29,252 - INFO - Processing row 29/39: 
+2025-08-30 20:22:29,253 - INFO - Starting content generation for: 
+2025-08-30 20:22:29,253 - INFO - Generating initial content with AI...
+2025-08-30 20:24:33,154 - INFO - Analyzing content quality and extracting topics...
+2025-08-30 20:24:33,167 - INFO - Searching for relevant links using topics: ['tires', 'premium', 'tire']
+2025-08-30 20:24:34,300 - ERROR - DuckDuckGo search failed: Expecting value: line 1 column 1 (char 0)
+2025-08-30 20:25:07,082 - INFO - Found 6 relevant search results
+2025-08-30 20:25:07,083 - INFO - Inserting links into content...
+2025-08-30 20:25:07,087 - INFO - Inserted 5 links: 5 outbound, 0 internal
+2025-08-30 20:25:07,091 - INFO - Generated article:  - Quality: 0.70, SEO: 0.55, Links: 5
+2025-08-30 20:25:07,092 - INFO - Content saved to: generated_content_.html
+2025-08-30 20:25:09,045 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:25:11,269 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:25:12,565 - ERROR - WordPress publishing failed: 401 - {"code":"incorrect_password","message":"The provided password is an invalid application password.","data":{"status":401}}
+2025-08-30 20:25:12,568 - INFO - Completed  - Quality: 0.70, SEO: 0.55
+2025-08-30 20:25:12,568 - INFO - Waiting 45 seconds before next generation...
+2025-08-30 20:25:57,569 - INFO - Processing row 30/39: 
+2025-08-30 20:25:57,570 - INFO - Starting content generation for: 
+2025-08-30 20:25:57,570 - INFO - Generating initial content with AI...
+2025-08-30 20:26:58,032 - INFO - Process interrupted by user
+2025-08-30 20:26:58,035 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 29
+Successfully published: 0
+Success rate: 0.0%
+Average quality score: 0.67
+Results saved to: enhanced_output_v2_final.csv
+            
+2025-08-30 20:59:21,187 - INFO - Starting Enhanced Content Generation V2
+2025-08-30 20:59:21,188 - INFO - Settings loaded from environment variables and blog_settings.json (dev fallback)
+2025-08-30 20:59:21,232 - INFO - Resuming from index 29, found 29 processed slugs
+2025-08-30 20:59:21,233 - INFO - Processing row 30/39: 
+2025-08-30 20:59:21,233 - INFO - Starting content generation for: 
+2025-08-30 20:59:21,233 - INFO - Generating initial content with AI...
+2025-08-30 21:00:23,311 - INFO - Process interrupted by user
+2025-08-30 21:00:23,323 - INFO - 
+🎉 Enhanced Content Generation V2 Complete!
+========================================
+Total articles processed: 29
+Successfully published: 0
+Success rate: 0.0%
+Average quality score: 0.67
+Results saved to: enhanced_output_v2_final.csv
+            

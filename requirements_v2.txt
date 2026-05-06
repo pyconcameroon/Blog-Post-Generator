@@ -1,0 +1,45 @@
+# Enhanced Blog Generator V2 - Required Packages
+# Install with: pip install -r requirements_v2.txt
+
+# Core dependencies
+pandas>=1.5.0
+requests>=2.28.0
+tqdm>=4.64.0
+chardet>=5.1.0
+
+# Optional for advanced features
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Data processing
+numpy>=1.24.0
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# JSON handling (included in Python standard library)
+# json
+
+# URL handling (included in Python standard library)  
+# urllib
+
+# Regular expressions (included in Python standard library)
+# re
+
+# Base64 encoding (included in Python standard library)
+# base64
+
+# Operating system interface (included in Python standard library)
+# os
+
+# Time utilities (included in Python standard library)
+# time
+
+# Logging (included in Python standard library)
+# logging
+
+# Data classes (included in Python 3.7+)
+# dataclasses
+
+# Type hints (included in Python 3.5+)
+# typing

@@ -1,0 +1,19 @@
+🌐 Access Your Frontend:
+Open your web browser and go to:
+
+http://localhost:5000
+http://127.0.0.1:5000
+📱 Available Pages:
+Dashboard: http://localhost:5000/ - Main overview and stats
+Generate Content: http://localhost:5000/generate - Start new content generation
+Results & Analytics: http://localhost:5000/results - View generated articles and metrics
+Article Management: http://localhost:5000/articles - Manage your articles
+Settings: http://localhost:5000/config - Configure API keys and settings
+🎛️ Features Available:
+✅ Start/Stop Generation - Control content generation process
+✅ Upload CSV Files - Upload new input files
+✅ Monitor Progress - Real-time generation status
+✅ View Results - Analytics and performance metrics
+✅ Download Reports - Export results as CSV
+✅ Configuration - Manage all settings through web UI
+The web interface is fully functional and ready to use! You can now control your entire content generation system through the browser instead of running terminal commands.
